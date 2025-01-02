@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\github\\stockprogram\\stok_programi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC859346-2BAE-4EAD-B9FD-711901A3D81B}|stok_programi\\stok_programi.csproj|d:\\github\\stockprogram\\stok_programi\\stok_programi\\productregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC859346-2BAE-4EAD-B9FD-711901A3D81B}|stok_programi\\stok_programi.csproj|solutionrelative:stok_programi\\productregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC859346-2BAE-4EAD-B9FD-711901A3D81B}|stok_programi\\stok_programi.csproj|D:\\github\\stockprogram\\stok_programi\\stok_programi\\productregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC859346-2BAE-4EAD-B9FD-711901A3D81B}|stok_programi\\stok_programi.csproj|solutionrelative:stok_programi\\productregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC859346-2BAE-4EAD-B9FD-711901A3D81B}|stok_programi\\stok_programi.csproj|D:\\github\\stockprogram\\stok_programi\\stok_programi\\customerregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC859346-2BAE-4EAD-B9FD-711901A3D81B}|stok_programi\\stok_programi.csproj|solutionrelative:stok_programi\\customerregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "productRegistration.cs [Design]",
+              "DocumentMoniker": "D:\\github\\stockprogram\\stok_programi\\stok_programi\\productRegistration.cs",
+              "RelativeDocumentMoniker": "stok_programi\\productRegistration.cs",
+              "ToolTip": "D:\\github\\stockprogram\\stok_programi\\stok_programi\\productRegistration.cs [Design]",
+              "RelativeToolTip": "stok_programi\\productRegistration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T21:00:02.661Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "customerRegistration.cs",
+              "DocumentMoniker": "D:\\github\\stockprogram\\stok_programi\\stok_programi\\customerRegistration.cs",
+              "RelativeDocumentMoniker": "stok_programi\\customerRegistration.cs",
+              "ToolTip": "D:\\github\\stockprogram\\stok_programi\\stok_programi\\customerRegistration.cs",
+              "RelativeToolTip": "stok_programi\\customerRegistration.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T20:56:09.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "productRegistration.cs",
+              "DocumentMoniker": "D:\\github\\stockprogram\\stok_programi\\stok_programi\\productRegistration.cs",
+              "RelativeDocumentMoniker": "stok_programi\\productRegistration.cs",
+              "ToolTip": "D:\\github\\stockprogram\\stok_programi\\stok_programi\\productRegistration.cs",
+              "RelativeToolTip": "stok_programi\\productRegistration.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCYAAAD8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T20:31:39.478Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

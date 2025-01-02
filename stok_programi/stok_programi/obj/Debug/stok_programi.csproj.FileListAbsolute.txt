@@ -1,0 +1,338 @@
+C:\2022_2023_DERSLERIM\BAHAR\Görsel_2\stok_programi\stok_programi\bin\Debug\stok_programi.exe.config
+C:\2022_2023_DERSLERIM\BAHAR\Görsel_2\stok_programi\stok_programi\bin\Debug\stok_programi.exe
+C:\2022_2023_DERSLERIM\BAHAR\Görsel_2\stok_programi\stok_programi\bin\Debug\stok_programi.pdb
+C:\2022_2023_DERSLERIM\BAHAR\Görsel_2\stok_programi\stok_programi\obj\Debug\stok_programi.csprojResolveAssemblyReference.cache
+C:\2022_2023_DERSLERIM\BAHAR\Görsel_2\stok_programi\stok_programi\obj\Debug\stok_programi.Form1.resources
+C:\2022_2023_DERSLERIM\BAHAR\Görsel_2\stok_programi\stok_programi\obj\Debug\stok_programi.Properties.Resources.resources
+C:\2022_2023_DERSLERIM\BAHAR\Görsel_2\stok_programi\stok_programi\obj\Debug\stok_programi.urun_kayit_formu.resources
+C:\2022_2023_DERSLERIM\BAHAR\Görsel_2\stok_programi\stok_programi\obj\Debug\stok_programi.csproj.GenerateResource.Cache
+C:\2022_2023_DERSLERIM\BAHAR\Görsel_2\stok_programi\stok_programi\obj\Debug\stok_programi.exe
+C:\2022_2023_DERSLERIM\BAHAR\Görsel_2\stok_programi\stok_programi\obj\Debug\stok_programi.pdb
+C:\2022_2023_DERSLERIM\BAHAR\Görsel_2\stok_programi\stok_programi\bin\Debug\MySql.Data.dll
+C:\2022_2023_DERSLERIM\BAHAR\program_on_calisma\stok_programi\stok_programi\bin\Debug\stok_programi.exe.config
+C:\2022_2023_DERSLERIM\BAHAR\program_on_calisma\stok_programi\stok_programi\obj\Debug\stok_programi.exe
+C:\2022_2023_DERSLERIM\BAHAR\program_on_calisma\stok_programi\stok_programi\obj\Debug\stok_programi.pdb
+C:\2022_2023_DERSLERIM\BAHAR\program_on_calisma\stok_programi\stok_programi\obj\Debug\stok_programi.csprojResolveAssemblyReference.cache
+C:\2022_2023_DERSLERIM\BAHAR\program_on_calisma\stok_programi\stok_programi\obj\Debug\stok_programi.Form1.resources
+C:\2022_2023_DERSLERIM\BAHAR\program_on_calisma\stok_programi\stok_programi\obj\Debug\stok_programi.musteri_kayit_formu.resources
+C:\2022_2023_DERSLERIM\BAHAR\program_on_calisma\stok_programi\stok_programi\obj\Debug\stok_programi.Properties.Resources.resources
+C:\2022_2023_DERSLERIM\BAHAR\program_on_calisma\stok_programi\stok_programi\obj\Debug\stok_programi.urun_kayit_formu.resources
+C:\2022_2023_DERSLERIM\BAHAR\program_on_calisma\stok_programi\stok_programi\obj\Debug\stok_programi.csproj.GenerateResource.Cache
+C:\2022_2023_DERSLERIM\BAHAR\program_on_calisma\stok_programi\stok_programi\bin\Debug\stok_programi.exe
+C:\2022_2023_DERSLERIM\BAHAR\program_on_calisma\stok_programi\stok_programi\bin\Debug\stok_programi.pdb
+C:\2022_2023_DERSLERIM\BAHAR\program_on_calisma\stok_programi\stok_programi\bin\Debug\MySql.Data.dll
+C:\2022_2023_DERSLERIM\BAHAR\program_on_calisma\stok_programi\stok_programi\obj\Debug\stok_programi.islem_formu.resources
+E:\program_on_calisma_gorsel_II\stok_programi\stok_programi\bin\Debug\stok_programi.exe.config
+E:\program_on_calisma_gorsel_II\stok_programi\stok_programi\obj\Debug\stok_programi.exe
+E:\program_on_calisma_gorsel_II\stok_programi\stok_programi\obj\Debug\stok_programi.pdb
+E:\program_on_calisma_gorsel_II\stok_programi\stok_programi\bin\Debug\stok_programi.exe
+E:\program_on_calisma_gorsel_II\stok_programi\stok_programi\bin\Debug\stok_programi.pdb
+E:\program_on_calisma_gorsel_II\stok_programi\stok_programi\obj\Debug\stok_programi.csprojResolveAssemblyReference.cache
+E:\program_on_calisma_gorsel_II\stok_programi\stok_programi\obj\Debug\stok_programi.Form1.resources
+E:\program_on_calisma_gorsel_II\stok_programi\stok_programi\obj\Debug\stok_programi.islem_formu.resources
+E:\program_on_calisma_gorsel_II\stok_programi\stok_programi\obj\Debug\stok_programi.musteri_kayit_formu.resources
+E:\program_on_calisma_gorsel_II\stok_programi\stok_programi\obj\Debug\stok_programi.Properties.Resources.resources
+E:\program_on_calisma_gorsel_II\stok_programi\stok_programi\obj\Debug\stok_programi.urun_kayit_formu.resources
+E:\program_on_calisma_gorsel_II\stok_programi\stok_programi\obj\Debug\stok_programi.csproj.GenerateResource.Cache
+E:\program_on_calisma_gorsel_II\stok_programi\stok_programi\obj\Debug\stok_programi.musteri_urun_listesi.resources
+E:\2022_2023_DERSLERIM\BAHAR\Görsel_2\stok_programi\stok_programi\bin\Debug\stok_programi.exe.config
+E:\2022_2023_DERSLERIM\BAHAR\Görsel_2\stok_programi\stok_programi\obj\Debug\stok_programi.exe
+E:\2022_2023_DERSLERIM\BAHAR\Görsel_2\stok_programi\stok_programi\obj\Debug\stok_programi.pdb
+E:\2022_2023_DERSLERIM\BAHAR\Görsel_2\stok_programi\stok_programi\bin\Debug\stok_programi.exe
+E:\2022_2023_DERSLERIM\BAHAR\Görsel_2\stok_programi\stok_programi\bin\Debug\stok_programi.pdb
+E:\2022_2023_DERSLERIM\BAHAR\Görsel_2\stok_programi\stok_programi\obj\Debug\stok_programi.csprojResolveAssemblyReference.cache
+E:\2022_2023_DERSLERIM\BAHAR\Görsel_2\stok_programi\stok_programi\obj\Debug\stok_programi.Form1.resources
+E:\2022_2023_DERSLERIM\BAHAR\Görsel_2\stok_programi\stok_programi\obj\Debug\stok_programi.islem_formu.resources
+E:\2022_2023_DERSLERIM\BAHAR\Görsel_2\stok_programi\stok_programi\obj\Debug\stok_programi.musteri_kayit_formu.resources
+E:\2022_2023_DERSLERIM\BAHAR\Görsel_2\stok_programi\stok_programi\obj\Debug\stok_programi.musteri_urun_listesi.resources
+E:\2022_2023_DERSLERIM\BAHAR\Görsel_2\stok_programi\stok_programi\obj\Debug\stok_programi.Properties.Resources.resources
+E:\2022_2023_DERSLERIM\BAHAR\Görsel_2\stok_programi\stok_programi\obj\Debug\stok_programi.urun_kayit_formu.resources
+E:\2022_2023_DERSLERIM\BAHAR\Görsel_2\stok_programi\stok_programi\obj\Debug\stok_programi.csproj.GenerateResource.Cache
+E:\gorsel_12_hafta\stok_programi\stok_programi\bin\Debug\stok_programi.exe.config
+E:\gorsel_12_hafta\stok_programi\stok_programi\obj\Debug\stok_programi.exe
+E:\gorsel_12_hafta\stok_programi\stok_programi\obj\Debug\stok_programi.pdb
+E:\gorsel_12_hafta\stok_programi\stok_programi\bin\Debug\stok_programi.exe
+E:\gorsel_12_hafta\stok_programi\stok_programi\bin\Debug\stok_programi.pdb
+E:\gorsel_12_hafta\stok_programi\stok_programi\obj\Debug\stok_programi.csprojResolveAssemblyReference.cache
+E:\gorsel_12_hafta\stok_programi\stok_programi\obj\Debug\stok_programi.Form1.resources
+E:\gorsel_12_hafta\stok_programi\stok_programi\obj\Debug\stok_programi.islem_formu.resources
+E:\gorsel_12_hafta\stok_programi\stok_programi\obj\Debug\stok_programi.musteri_kayit_formu.resources
+E:\gorsel_12_hafta\stok_programi\stok_programi\obj\Debug\stok_programi.musteri_urun_listesi.resources
+E:\gorsel_12_hafta\stok_programi\stok_programi\obj\Debug\stok_programi.Properties.Resources.resources
+E:\gorsel_12_hafta\stok_programi\stok_programi\obj\Debug\stok_programi.urun_kayit_formu.resources
+E:\gorsel_12_hafta\stok_programi\stok_programi\obj\Debug\stok_programi.csproj.GenerateResource.Cache
+C:\2022_2023_DERSLERIM\BAHAR\Görsel_2\stok_programi\stok_programi\obj\Debug\stok_programi.islem_formu.resources
+C:\2022_2023_DERSLERIM\BAHAR\Görsel_2\stok_programi\stok_programi\obj\Debug\stok_programi.musteri_kayit_formu.resources
+C:\2022_2023_DERSLERIM\BAHAR\Görsel_2\stok_programi\stok_programi\obj\Debug\stok_programi.musteri_urun_listesi.resources
+C:\2022_2023_DERSLERIM\BAHAR\Görsel_2\stok_programi\stok_programi\obj\Debug\stok_programi.urun_ara_duzelt_formu.resources
+C:\2022_2023_DERSLERIM\BAHAR\Görsel_2\stok_programi\stok_programi\obj\Debug\stok_programi.musteri_arama_duzeltme_formu.resources
+C:\2022_2023_DERSLERIM\BAHAR\Görsel_2\stok_programi\stok_programi\obj\Debug\stok_programi.stok_islem_duzeltme_formu.resources
+E:\2022_2023_DERSLERIM\BAHAR\Görsel_2\stok_programi\stok_programi\obj\Debug\stok_programi.musteri_arama_duzeltme_formu.resources
+E:\2022_2023_DERSLERIM\BAHAR\Görsel_2\stok_programi\stok_programi\obj\Debug\stok_programi.stok_islem_duzeltme_formu.resources
+E:\2022_2023_DERSLERIM\BAHAR\Görsel_2\stok_programi\stok_programi\obj\Debug\stok_programi.urun_ara_duzelt_formu.resources
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\stok_programi.exe.config
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\stok_programi.exe
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\stok_programi.pdb
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\Google.Protobuf.dll
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\MySql.Data.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\Renci.SshNet.dll
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\ZstdSharp.dll
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\Google.Protobuf.pdb
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\Google.Protobuf.xml
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\MySql.Data.xml
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\MySql.Data.EntityFrameworkCore.xml
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\Renci.SshNet.xml
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\System.Buffers.xml
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\System.Memory.xml
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\obj\Debug\stok_programi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\obj\Debug\stok_programi.Form1.resources
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\obj\Debug\stok_programi.islem_formu.resources
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\obj\Debug\stok_programi.musteri_arama_duzeltme_formu.resources
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\obj\Debug\stok_programi.musteri_kayit_formu.resources
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\obj\Debug\stok_programi.musteri_urun_listesi.resources
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\obj\Debug\stok_programi.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\obj\Debug\stok_programi.stok_islem_duzeltme_formu.resources
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\obj\Debug\stok_programi.urun_ara_duzelt_formu.resources
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\obj\Debug\stok_programi.urun_kayit_formu.resources
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\obj\Debug\stok_programi.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\obj\Debug\stok_programi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\obj\Debug\stok_pro.8E0FC9BE.Up2Date
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\obj\Debug\stok_programi.exe
+C:\Users\Lenovo\Desktop\stok_programi\stok_programi\stok_programi\obj\Debug\stok_programi.pdb
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\stok_programi.exe.config
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\stok_programi.exe
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\stok_programi.pdb
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\Google.Protobuf.dll
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\MySql.Data.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\Renci.SshNet.dll
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\ZstdSharp.dll
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\Google.Protobuf.pdb
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\Google.Protobuf.xml
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\MySql.Data.xml
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\MySql.Data.EntityFrameworkCore.xml
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\Renci.SshNet.xml
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\System.Buffers.xml
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\System.Memory.xml
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\obj\Debug\stok_programi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\obj\Debug\stok_programi.customerProductList.resources
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\obj\Debug\stok_programi.customerRegistration.resources
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\obj\Debug\stok_programi.customerSearchCorrection.resources
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\obj\Debug\stok_programi.Form2.resources
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\obj\Debug\stok_programi.homePage.resources
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\obj\Debug\stok_programi.productRegistration.resources
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\obj\Debug\stok_programi.productSearch_Fix.resources
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\obj\Debug\stok_programi.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\obj\Debug\stok_programi.stockTransactionCorrection.resources
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\obj\Debug\stok_programi.transactionForm.resources
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\obj\Debug\stok_programi.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\obj\Debug\stok_programi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\obj\Debug\stok_pro.8E0FC9BE.Up2Date
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\obj\Debug\stok_programi.exe
+C:\Users\Lenovo\Desktop\stok_programi - Kopya\stok_programi\stok_programi\obj\Debug\stok_programi.pdb
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\stok_programi.exe.config
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\stok_programi.exe
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\stok_programi.pdb
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\BouncyCastle.Crypto.dll
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\BouncyCastle.Cryptography.dll
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\Google.Protobuf.dll
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\K4os.Compression.LZ4.dll
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\K4os.Hash.xxHash.dll
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Options.dll
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\MySql.Data.dll
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\MySql.Data.EntityFrameworkCore.dll
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\Renci.SshNet.dll
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\System.Buffers.dll
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\System.Collections.Immutable.dll
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\System.ComponentModel.Annotations.dll
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\System.IO.Pipelines.dll
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\System.Memory.dll
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\System.Numerics.Vectors.dll
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\ZstdSharp.dll
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\BouncyCastle.Cryptography.xml
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\Google.Protobuf.pdb
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\Google.Protobuf.xml
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\K4os.Compression.LZ4.xml
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\K4os.Hash.xxHash.xml
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Options.xml
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\MySql.Data.xml
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\MySql.Data.EntityFrameworkCore.xml
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\Renci.SshNet.xml
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\System.Buffers.xml
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\System.Collections.Immutable.xml
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\System.IO.Pipelines.xml
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\System.Memory.xml
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\System.Numerics.Vectors.xml
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\github\stockprogram\stok_programi\stok_programi\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\github\stockprogram\stok_programi\stok_programi\obj\Debug\stok_programi.csproj.AssemblyReference.cache
+D:\github\stockprogram\stok_programi\stok_programi\obj\Debug\stok_programi.customerProductList.resources
+D:\github\stockprogram\stok_programi\stok_programi\obj\Debug\stok_programi.customerRegistration.resources
+D:\github\stockprogram\stok_programi\stok_programi\obj\Debug\stok_programi.customerSearchCorrection.resources
+D:\github\stockprogram\stok_programi\stok_programi\obj\Debug\stok_programi.Form2.resources
+D:\github\stockprogram\stok_programi\stok_programi\obj\Debug\stok_programi.homePage.resources
+D:\github\stockprogram\stok_programi\stok_programi\obj\Debug\stok_programi.productRegistration.resources
+D:\github\stockprogram\stok_programi\stok_programi\obj\Debug\stok_programi.productSearch_Fix.resources
+D:\github\stockprogram\stok_programi\stok_programi\obj\Debug\stok_programi.Properties.Resources.resources
+D:\github\stockprogram\stok_programi\stok_programi\obj\Debug\stok_programi.stockTransactionCorrection.resources
+D:\github\stockprogram\stok_programi\stok_programi\obj\Debug\stok_programi.transactionForm.resources
+D:\github\stockprogram\stok_programi\stok_programi\obj\Debug\stok_programi.csproj.GenerateResource.cache
+D:\github\stockprogram\stok_programi\stok_programi\obj\Debug\stok_programi.csproj.CoreCompileInputs.cache
+D:\github\stockprogram\stok_programi\stok_programi\obj\Debug\stok_pro.8E0FC9BE.Up2Date
+D:\github\stockprogram\stok_programi\stok_programi\obj\Debug\stok_programi.exe
+D:\github\stockprogram\stok_programi\stok_programi\obj\Debug\stok_programi.pdb
